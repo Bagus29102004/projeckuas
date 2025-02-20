@@ -153,7 +153,7 @@
                                         <label for="stars-rating-3"><i class="fa fa-star text-primary"></i></label>
                                         <label for="stars-rating-2"><i class="fa fa-star text-primary"></i></label>
                                         <label for="stars-rating-1"><i class="fa fa-star text-primary"></i></label>
-                                        <label for="stars-rating-5"><i class="fa fa-star"></i></label>
+                                        <label for="stars-rating-1"><i class="fa fa-star text-primary"></i></label>
                                         <label for="stars-rating-4"><i class="fa fa-star"></i></label>
                                         
                                     </div>
