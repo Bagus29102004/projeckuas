@@ -56,7 +56,7 @@
         </div>
     </div>
     <div id="mySidenav" class="sidenav">
-        <div class="container" style="background-color: #2874f0; padding-top: 10px;">
+        <div class="container" style="background-color:rgb(120, 240, 40); padding-top: 10px;">
             <span class="sidenav-heading">Home</span>
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
         </div>
