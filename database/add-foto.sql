@@ -1,1 +1,0 @@
-ALTER TABLE `user`  ADD `foto` VARCHAR(50) NOT NULL  AFTER `status`;
