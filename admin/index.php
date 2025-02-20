@@ -9,7 +9,7 @@
 		<div class="row">
 			<div class="col-md-12">
 					<div class="jumbotron">
-						<h2>SELAMAT DATANG ( <?php echo $_SESSION['username'];?> )</h2>
+						<h2>WELCOME ( <?php echo $_SESSION['username'];?> )</h2>
 						<p>Ini adalah website Penjualan Sepatu Bagus Store </p>
 						
 				</div>

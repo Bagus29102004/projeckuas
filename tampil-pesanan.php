@@ -52,7 +52,7 @@
         <table  class="table table-bordered table-hover" id="data-table">
         <thead>
             <tr>
-                <th>NP</th><th>NAMA</th><th> SIZE</th><th>ALAMAT</th> <th>SIZE</th><th>HARGA</th>
+                <th>Nomor Pesanan</th><th>NAMA</th><th> SIZE</th><th>ALAMAT</th> <th>SIZE</th><th>HARGA</th>
                 <th>
                    
                     </a>
